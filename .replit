@@ -1,4 +1,4 @@
-run = "python app.py"
+run = "clear&&python app.py"
 
 [nix]
 channel = "stable-22_11"
